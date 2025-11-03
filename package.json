@@ -1,0 +1,19 @@
+{
+  "name": "tasks-mcp-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "tasks-mcp-server": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.2"
+  }
+}
