@@ -1,9 +1,9 @@
 {
-  "name": "tasks-mcp-server",
+  "name": "mcp-server",
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "tasks-mcp-server": "./index.js"
+    "mcp-server": "./index.js"
   },
   "type": "module",
   "scripts": {
